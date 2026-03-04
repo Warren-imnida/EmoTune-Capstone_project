@@ -1,4 +1,3 @@
-# EmoTune-Capstone_project
 # EmoTune: Sentiment-Driven AI Music Recommender
 ## Complete Setup & Documentation
 
